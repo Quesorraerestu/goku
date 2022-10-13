@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Castellano", "goku", [0, 255, 255]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "the ultimate showdown",
+	"weekBefore": "week8",
+	"weekName": "Finale Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
